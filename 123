@@ -1,0 +1,7 @@
+Đưa ra mô hình deploy để Ceph hỗ trợ S3 interfaces, đảm bảo dự phòng, (Load balancer: optional)
+
+Đóng gói ansible
+
+Test truy cập S3 interface từ Openstack Project (swift), từ VM
+
+Làm rõ các cơ chế xác thực, phân quyền của các ứng dụng truy cập S3 interfaces
